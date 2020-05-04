@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwentyFourHires</string>
+    <string name="facebook_app_id">1430674703665834</string>
+    <string name="google_place_api">AIzaSyBPspWoYygSRuvn2VnceAO3MBftXxfanBs</string>
+    <string name="title_activity_job_activities">JobActivities</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="forgotpw"><u>Forgot Password</u></string>
+</resources>
