@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@ptomasroos/react-native-multi-slider": "^1.0.0",
-    "aws-sdk": "^2.334.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.18.0",
     "emoji-utils": "^1.0.1",
     "firebase": "^5.3.0",
